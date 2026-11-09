@@ -40,10 +40,6 @@
 | --- | --- | --- |
 | 🎫 **Ticket Bot** | Fully customizable professional Discord ticket system | TypeScript · Discord.js · Prisma |
 | 📊 **Server Stats Bot** | Auto-updating stats category with live voice channels | Discord.js v14 |
-| 🛒 **Marketplace Bot** | Production-grade marketplace bot for game items | Python |
-| 📦 **Inventory Optimizer** | Item pricing, inventory analysis and arbitrage tooling | Python |
-| 🧊 **CFOP Cube Trainer** | Rubik's Cube trainer with 3D visualizer & muscle-memory drills | HTML · CSS · JS |
-| 🚽 **Restroom Rush** | Horror-comedy Roblox game with a custom UI kit | Roblox Studio · Luau |
 | 🖥️ **PC AI** | Local AI assistant for PC hardware questions | Python |
 
 ---
